@@ -1,3 +1,3 @@
 # HelloWorld
 Hello World repository
-Salut la terre
+Salut la Terre
